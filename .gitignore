@@ -57,3 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# IDE Stuff (This covers PHPStorm, IntelliJ IDEA, Aptana, and Eclipse)
+.idea/
+.idea-new
+.settings
+.jar
+.ide_plugins/
